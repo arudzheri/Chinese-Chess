@@ -1,4 +1,4 @@
-🏯 Chinese Chess (Xiangqi)
+* 🏯 Chinese Chess (Xiangqi)
 A Python-based implementation of Chinese Chess (Xiangqi) with a graphical interface using pygame. The game supports local multiplayer and highlights valid moves for each piece, including full rule enforcement and check/checkmate detection.
 
 🎮 Features
